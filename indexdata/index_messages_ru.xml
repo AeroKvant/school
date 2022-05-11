@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="ru_project_title"><![CDATA[3D-tour_on_school]]></data>
+
+
+
+  <data name="ru_pano27_title"><![CDATA[коридор между блоками]]></data>
+  <data name="ru_spotpolygon255_tooltip"><![CDATA[коридор3 б1]]></data>
+  <data name="ru_spotpolygon256_tooltip"><![CDATA[коридор3 б2]]></data>
+
+  <data name="ru_panogroup54_title"><![CDATA[коридоры первого блока]]></data>
+
+  <data name="ru_pano28_title"><![CDATA[коридор1 б1]]></data>
+  <data name="ru_pano30_title"><![CDATA[коридор2 б1]]></data>
+  <data name="ru_pano32_title"><![CDATA[коридор3 б1]]></data>
+  <data name="ru_pano34_title"><![CDATA[коридор4 б1]]></data>
+
+  <data name="ru_panogroup52_title"><![CDATA[коридоры второго блока]]></data>
+
+  <data name="ru_pano29_title"><![CDATA[коридор1 б2]]></data>
+  <data name="ru_pano26_title"><![CDATA[коридор2 б2]]></data>
+  <data name="ru_pano31_title"><![CDATA[коридор3 б2]]></data>
+  <data name="ru_pano33_title"><![CDATA[коридор4 б2]]></data>
+  <data name="ru_pano35_title"><![CDATA[коридор5 б2]]></data>
+
+  <data name="ru_panogroup38_title"><![CDATA[кабинеты первого блока]]></data>
+
+  <data name="ru_pano12_title"><![CDATA[201 кабинет - кабинет информатики]]></data>
+  <data name="ru_pano13_title"><![CDATA[202 кабинет - кабинет информатики]]></data>
+  <data name="ru_pano14_title"><![CDATA[203 кабинет - кабинет математики]]></data>
+  <data name="ru_pano16_title"><![CDATA[205 кабинет - кабинет математики]]></data>
+  <data name="ru_pano17_title"><![CDATA[206 кабинет - кабинет математики]]></data>
+  <data name="ru_pano19_title"><![CDATA[208 кабинет - кабинет иностранного языка]]></data>
+  <data name="ru_pano20_title"><![CDATA[209 кабинет - кабинет иностранного языка]]></data>
+  <data name="ru_pano21_title"><![CDATA[210 кабинет - кабинет иностранного языка]]></data>
+
+  <data name="ru_panogroup48_title"><![CDATA[кабинеты второго блока]]></data>
+
+  <data name="ru_pano22_title"><![CDATA[213 кабинет - кабинет музыки]]></data>
+  <data name="ru_pano25_title"><![CDATA[212 кабинет- кабинет домоводства и кулинарии]]></data>
+  <data name="ru_pano10_title"><![CDATA[1 спорт зал]]></data>
+  <data name="ru_pano11_title"><![CDATA[2 спорт зал]]></data>
+  <data name="ru_pano23_title"><![CDATA[3 спорт зал]]></data>
+
+
+  <data name="ru_pano18_title"><![CDATA[207 кабинет-кабинет иностранного языка 2]]></data>
+
+
+  <data name="ru_pano15_title"><![CDATA[204 кабинет-кабинет математики ]]></data>
+
+
+	<data name="ru_spotmap140_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap141_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap142_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap143_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap144_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap145_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap146_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap147_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap148_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap149_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap150_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap151_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap152_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap153_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap154_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap155_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap156_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap157_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap158_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap159_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap160_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap161_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap162_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap163_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap164_tooltip"><![CDATA[]]></data>
+
+
+
+
+  <data name="ru_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="ru_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="ru_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="ru_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="ru_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="ru_floorPlanmenu_label"><![CDATA[Select a floor plan]]></data>
+
+
+  <data name="ru_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="ru_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="ru_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="ru_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="ru_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="ru_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="ru_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="ru_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="ru_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="ru_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="ru_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="ru_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="ru_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="ru_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="ru_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="ru_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="ru_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="ru_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="ru_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="ru_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="ru_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="ru_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="ru_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="ru_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="ru_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="ru_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
